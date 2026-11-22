@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "theme": "Appverse",
+  "generated": "2026-10-24",
+  "base": "assets/demo",
+  "icons": [
+    {
+      "file": "icons/app-01.png",
+      "name": "灵界",
+      "color": "#ebb373"
+    },
+    {
+      "file": "icons/app-02.png",
+      "name": "潮汐",
+      "color": "#7ac9be"
+    },
+    {
+      "file": "icons/app-03.png",
+      "name": "星穹",
+      "color": "#8f99c9"
+    },
+    {
+      "file": "icons/app-04.png",
+      "name": "莲境",
+      "color": "#573f8a"
+    },
+    {
+      "file": "icons/app-05.png",
+      "name": "青柚",
+      "color": "#467148"
+    },
+    {
+      "file": "icons/app-06.png",
+      "name": "墨白",
+      "color": "#765533"
+    },
+    {
+      "file": "icons/app-07.png",
+      "name": "听雨",
+      "color": "#874356"
+    },
+    {
+      "file": "icons/app-08.png",
+      "name": "拾光",
+      "color": "#805d2a"
+    },
+    {
+      "file": "icons/app-09.png",
+      "name": "浮屿",
+      "color": "#473475"
+    },
+    {
+      "file": "icons/app-10.png",
+      "name": "追光",
+      "color": "#2e4d80"
+    },
+    {
+      "file": "icons/app-11.png",
+      "name": "年轮",
+      "color": "#703c2d"
+    },
+    {
+      "file": "icons/app-12.png",
+      "name": "山隐",
+      "color": "#2f5445"
+    }
+  ],
+  "default_icon": "icons/app-default.png",
+  "banners": [
+    {
+      "file": "banners/banner-01.jpg",
+      "title": "云海晨曦",
+      "color": "#2b474b"
+    },
+    {
+      "file": "banners/banner-02.jpg",
+      "title": "星港夜行",
+      "color": "#312c57"
+    },
+    {
+      "file": "banners/banner-03.jpg",
+      "title": "纸上山河",
+      "color": "#2c2f38"
+    }
+  ],
+  "avatars": [
+    {
+      "file": "avatars/user-01.png",
+      "name": "青岚",
+      "color": "#6a394e"
+    },
+    {
+      "file": "avatars/user-02.png",
+      "name": "南枝",
+      "color": "#72aa9f"
+    },
+    {
+      "file": "avatars/user-03.png",
+      "name": "晚棠",
+      "color": "#724b2a"
+    },
+    {
+      "file": "avatars/user-04.png",
+      "name": "疏星",
+      "color": "#434a88"
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "screens/shot-01.png",
+      "title": "发现首页",
+      "color": "#f6f7fb"
+    },
+    {
+      "file": "screens/shot-02.png",
+      "title": "应用详情",
+      "color": "#f6f7fb"
+    },
+    {
+      "file": "screens/shot-03.png",
+      "title": "个人中心",
+      "color": "#e9ebf3"
+    }
+  ],
+  "dimensions": {
+    "icons": [
+      256,
+      256
+    ],
+    "default_icon": [
+      256,
+      256
+    ],
+    "banners": [
+      1200,
+      560
+    ],
+    "avatars": [
+      256,
+      256
+    ],
+    "screenshots": [
+      720,
+      1280
+    ]
+  },
+  "dominant_colors": {
+    "page": "#eef0f5",
+    "ink": "#16181f",
+    "primary": "#4d5f8c",
+    "accent": "#edb95c",
+    "icons": [
+      "#ebb373",
+      "#7ac9be",
+      "#8f99c9",
+      "#573f8a",
+      "#467148",
+      "#765533",
+      "#874356",
+      "#805d2a",
+      "#473475",
+      "#2e4d80",
+      "#703c2d",
+      "#2f5445"
+    ],
+    "banners": [
+      "#2b474b",
+      "#312c57",
+      "#2c2f38"
+    ],
+    "avatars": [
+      "#6a394e",
+      "#72aa9f",
+      "#724b2a",
+      "#434a88"
+    ],
+    "screenshots": [
+      "#f6f7fb",
+      "#f6f7fb",
+      "#e9ebf3"
+    ],
+    "default_icon": "#5b6788"
+  },
+  "default_icon_color": "#5b6788"
+}

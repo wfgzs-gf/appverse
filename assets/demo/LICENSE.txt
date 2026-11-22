@@ -1,0 +1,16 @@
+Appverse demo artwork
+=====================
+
+All images in this directory were generated specifically for the Appverse
+WordPress theme with Python/Pillow. They are released under CC0 1.0
+(public domain dedication): you may use, modify and redistribute them,
+including in commercial projects, without attribution.
+
+Contents:
+- icons/     12 app icons + default fallback (256x256 PNG)
+- banners/   3 home carousel backgrounds (1200x560 JPEG)
+- avatars/   4 user avatars (256x256 PNG)
+- screens/   3 generic app screenshot mock-ups (720x1280 PNG)
+- manifest.json  mapping of files, titles and dominant colors
+
+No real product logos, screenshots or copyrighted artwork are included.

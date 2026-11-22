@@ -1,0 +1,1223 @@
+# Copyright (C) 2026 Appverse Studio
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Appverse 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/appverse\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-24T13:33:24+08:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: appverse\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Appverse"
+msgstr ""
+
+#. Theme URI of the theme
+#. Author URI of the theme
+#: style.css
+msgid "https://appverse.example.com/"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Appverse 是一款移动应用商店风格的 WordPress 主题：首页轮播、应用推荐、应用排行、分类、社区动态、签到与个人中心一应俱全。主题内置演示数据，启用后即可获得与预览图一致的应用商店站点。"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Appverse Studio"
+msgstr ""
+
+#: 404.php:13
+msgid "这个页面已经离开了应用商店"
+msgstr ""
+
+#: 404.php:14
+msgid "链接可能已经失效，或者应用已经下架。你可以回到首页重新开始。"
+msgstr ""
+
+#: 404.php:16
+#: archive-app.php:50
+#: search.php:100
+msgid "回到首页"
+msgstr ""
+
+#: 404.php:17
+#: home.php:46
+msgid "逛逛应用库"
+msgstr ""
+
+#: archive-app.php:18
+msgid "应用库"
+msgstr ""
+
+#: archive-app.php:19
+msgid "所有上架应用，按下载热度与更新时间排列。"
+msgstr ""
+
+#: archive-app.php:20
+msgid "APP LIBRARY"
+msgstr ""
+
+#: archive-app.php:26
+msgid "只看官方版"
+msgstr ""
+
+#: archive-app.php:48
+msgid "没有找到应用"
+msgstr ""
+
+#: archive-app.php:49
+msgid "试试其他分类，或回到首页看看推荐。"
+msgstr ""
+
+#: archive.php:11
+msgid "ARCHIVE"
+msgstr ""
+
+#: archive.php:24
+msgid "暂时没有内容"
+msgstr ""
+
+#: author.php:19
+msgid "这个人还没有写简介。"
+msgstr ""
+
+#: author.php:34
+msgid "还没有发布内容"
+msgstr ""
+
+#: comments.php:15
+#: single-app.php:82
+msgid "评论"
+msgstr ""
+
+#: comments.php:42
+msgid "评论已关闭。"
+msgstr ""
+
+#: comments.php:48
+msgid "说点什么"
+msgstr ""
+
+#: comments.php:53
+msgid "发表评论"
+msgstr ""
+
+#: comments.php:54
+msgid "评论内容"
+msgstr ""
+
+#: comments.php:56
+msgid "昵称"
+msgstr ""
+
+#: comments.php:57
+msgid "邮箱"
+msgstr ""
+
+#: comments.php:59
+msgid "邮箱不会公开。"
+msgstr ""
+
+#: footer.php:14
+#: functions.php:115
+msgid "关闭"
+msgstr ""
+
+#: footer.php:18
+msgid "准备下载"
+msgstr ""
+
+#: footer.php:19
+msgid "下载应用"
+msgstr ""
+
+#: footer.php:21
+#: functions.php:105
+#: inc/core.php:771
+msgid "下载即表示同意《用户协议》与《隐私政策》，应用由开发者提供，请自行甄别。"
+msgstr ""
+
+#: footer.php:23
+#: functions.php:116
+msgid "继续下载"
+msgstr ""
+
+#: footer.php:26
+#: functions.php:117
+msgid "取消"
+msgstr ""
+
+#: front-page.php:30
+msgid "精选推荐"
+msgstr ""
+
+#: front-page.php:48
+msgid "轮播图"
+msgstr ""
+
+#. translators: %d slide
+#: front-page.php:50
+#, php-format
+msgid "第 %d 张"
+msgstr ""
+
+#: front-page.php:57
+msgid "快捷入口"
+msgstr ""
+
+#: front-page.php:60
+#: inc/template-tags.php:871
+msgid "最新"
+msgstr ""
+
+#: front-page.php:64
+msgid "排行"
+msgstr ""
+
+#: front-page.php:68
+#: inc/core.php:57
+msgid "分类"
+msgstr ""
+
+#: front-page.php:72
+#: page-profile.php:78
+msgid "签到"
+msgstr ""
+
+#. Template Name of the theme
+#: front-page.php:76
+#: page-ranking.php:41
+msgid "独立开发"
+msgstr ""
+
+#: front-page.php:82
+msgid "推荐应用"
+msgstr ""
+
+#: front-page.php:84
+#: inc/template-tags.php:773
+#: single-app.php:154
+msgid "全部"
+msgstr ""
+
+#: front-page.php:116
+msgid "还没有上架应用"
+msgstr ""
+
+#: front-page.php:116
+msgid "在后台「应用商店 → 上架应用」中添加第一个应用。"
+msgstr ""
+
+#: front-page.php:122
+#: front-page.php:134
+#: page-profile.php:27
+#: page-profile.php:153
+msgid "应用管理"
+msgstr ""
+
+#: front-page.php:124
+msgid "管理"
+msgstr ""
+
+#: front-page.php:130
+#: page-profile.php:22
+#: template-parts/topbar-profile.php:11
+msgid "下载管理"
+msgstr ""
+
+#: front-page.php:138
+#: inc/core.php:91
+#: inc/core.php:92
+#: page-profile.php:32
+#: taxonomy-app_collection.php:17
+msgid "应用集"
+msgstr ""
+
+#: front-page.php:142
+#: page-profile.php:37
+msgid "应用筛选"
+msgstr ""
+
+#: functions.php:50
+#: inc/template-tags.php:721
+msgid "底部导航"
+msgstr ""
+
+#: functions.php:51
+msgid "页脚导航"
+msgstr ""
+
+#: functions.php:107
+msgid "已点赞"
+msgstr ""
+
+#: functions.php:108
+msgid "已取消"
+msgstr ""
+
+#: functions.php:109
+#: inc/core.php:987
+msgid "签到成功，积分 +5"
+msgstr ""
+
+#: functions.php:110
+#: inc/core.php:967
+msgid "今天已经签到啦"
+msgstr ""
+
+#: functions.php:111
+msgid "开始下载…"
+msgstr ""
+
+#: functions.php:112
+msgid "登录后才能操作"
+msgstr ""
+
+#: functions.php:113
+msgid "操作失败，请稍后重试"
+msgstr ""
+
+#: functions.php:114
+msgid "链接已复制"
+msgstr ""
+
+#: functions.php:237
+msgid "页脚小工具"
+msgstr ""
+
+#: functions.php:239
+msgid "显示在页面底部的补充区域。"
+msgstr ""
+
+#: functions.php:299
+msgid "Appverse 已启用。"
+msgstr ""
+
+#: functions.php:300
+msgid "演示应用、动态和页面已经准备好，你可以直接预览首页。"
+msgstr ""
+
+#: functions.php:302
+msgid "管理演示内容"
+msgstr ""
+
+#: header.php:19
+msgid "跳到主要内容"
+msgstr ""
+
+#: home.php:16
+msgid "动态分类"
+msgstr ""
+
+#: home.php:44
+msgid "还没有动态"
+msgstr ""
+
+#: home.php:45
+msgid "去应用详情页看看，或者发布第一条使用体验。"
+msgstr ""
+
+#: home.php:53
+msgid "发布动态"
+msgstr ""
+
+#: inc/core.php:24
+#: inc/core.php:25
+#: inc/core.php:1071
+#: page-ranking.php:68
+#: search.php:41
+#: single-app.php:15
+#: template-parts/app-card.php:14
+#: template-parts/app-row.php:14
+msgid "应用"
+msgstr ""
+
+#: inc/core.php:26
+msgid "上架应用"
+msgstr ""
+
+#: inc/core.php:27
+msgid "上架新应用"
+msgstr ""
+
+#: inc/core.php:28
+msgid "编辑应用"
+msgstr ""
+
+#: inc/core.php:29
+msgid "新应用"
+msgstr ""
+
+#: inc/core.php:30
+msgid "查看应用"
+msgstr ""
+
+#: inc/core.php:31
+msgid "搜索应用"
+msgstr ""
+
+#: inc/core.php:32
+msgid "还没有应用"
+msgstr ""
+
+#: inc/core.php:33
+msgid "回收站里没有应用"
+msgstr ""
+
+#: inc/core.php:34
+msgid "全部应用"
+msgstr ""
+
+#: inc/core.php:35
+msgid "应用商店"
+msgstr ""
+
+#. Template Name of the theme
+#: inc/core.php:56
+#: page-categories.php:27
+msgid "应用分类"
+msgstr ""
+
+#: inc/core.php:58
+msgid "添加分类"
+msgstr ""
+
+#: inc/core.php:59
+msgid "编辑分类"
+msgstr ""
+
+#: inc/core.php:60
+msgid "搜索分类"
+msgstr ""
+
+#: inc/core.php:75
+#: taxonomy-app_tag.php:18
+msgid "应用标签"
+msgstr ""
+
+#: inc/core.php:76
+msgid "标签"
+msgstr ""
+
+#: inc/core.php:93
+msgid "新建应用集"
+msgstr ""
+
+#: inc/core.php:108
+#: inc/core.php:109
+msgid "动态类型"
+msgstr ""
+
+#: inc/core.php:177
+msgid "版本号"
+msgstr ""
+
+#: inc/core.php:182
+msgid "安装包大小"
+msgstr ""
+
+#: inc/core.php:187
+msgid "下载量"
+msgstr ""
+
+#: inc/core.php:192
+#: inc/template-tags.php:776
+msgid "开发者"
+msgstr ""
+
+#: inc/core.php:197
+msgid "评分（0-5）"
+msgstr ""
+
+#: inc/core.php:202
+msgid "官方版本"
+msgstr ""
+
+#: inc/core.php:207
+msgid "角标文字"
+msgstr ""
+
+#: inc/core.php:209
+#: inc/template-tags.php:49
+msgid "正式版"
+msgstr ""
+
+#: inc/core.php:212
+msgid "下载地址"
+msgstr ""
+
+#: inc/core.php:217
+msgid "应用包名"
+msgstr ""
+
+#: inc/core.php:222
+msgid "更新时间"
+msgstr ""
+
+#: inc/core.php:227
+#: single-app.php:81
+#: single-app.php:126
+msgid "更新日志"
+msgstr ""
+
+#: inc/core.php:314
+msgid "应用信息"
+msgstr ""
+
+#: inc/core.php:322
+msgid "动态关联"
+msgstr ""
+
+#: inc/core.php:358
+msgid "标记为官方版本"
+msgstr ""
+
+#: inc/core.php:375
+#: single-app.php:98
+#: single-app.php:118
+msgid "应用截图"
+msgstr ""
+
+#: inc/core.php:376
+msgid "选择 3–6 张截图，建议尺寸 720×1280。"
+msgstr ""
+
+#: inc/core.php:384
+msgid "移除截图"
+msgstr ""
+
+#: inc/core.php:389
+msgid "选择截图"
+msgstr ""
+
+#: inc/core.php:414
+msgid "发布设备"
+msgstr ""
+
+#: inc/core.php:418
+msgid "关联应用"
+msgstr ""
+
+#: inc/core.php:420
+msgid "不关联"
+msgstr ""
+
+#: inc/core.php:521
+msgid "等级"
+msgstr ""
+
+#: inc/core.php:526
+msgid "当前经验"
+msgstr ""
+
+#: inc/core.php:531
+msgid "升级所需经验"
+msgstr ""
+
+#: inc/core.php:536
+#: page-checkin.php:99
+#: page-profile.php:103
+msgid "积分"
+msgstr ""
+
+#: inc/core.php:541
+#: page-profile.php:104
+msgid "分享值"
+msgstr ""
+
+#: inc/core.php:546
+msgid "流量（如 0MB）"
+msgstr ""
+
+#: inc/core.php:551
+msgid "关注数"
+msgstr ""
+
+#: inc/core.php:583
+msgid "Appverse 应用商店资料"
+msgstr ""
+
+#: inc/core.php:684
+msgid "Appverse 主题设置"
+msgstr ""
+
+#: inc/core.php:685
+msgid "首页轮播、通知角标与页脚信息。"
+msgstr ""
+
+#: inc/core.php:693
+msgid "首页轮播"
+msgstr ""
+
+#. translators: %d banner number
+#: inc/core.php:711
+#, php-format
+msgid "第 %d 张轮播图"
+msgstr ""
+
+#: inc/core.php:718
+msgid "出品方小字"
+msgstr ""
+
+#: inc/core.php:719
+msgid "主标题"
+msgstr ""
+
+#: inc/core.php:720
+msgid "英文副标"
+msgstr ""
+
+#: inc/core.php:721
+msgid "描述"
+msgstr ""
+
+#: inc/core.php:722
+msgid "按钮文字"
+msgstr ""
+
+#: inc/core.php:723
+msgid "按钮链接"
+msgstr ""
+
+#: inc/core.php:747
+msgid "通用设置"
+msgstr ""
+
+#: inc/core.php:754
+msgid "通知角标数字"
+msgstr ""
+
+#: inc/core.php:759
+msgid "ICP 备案号"
+msgstr ""
+
+#: inc/core.php:764
+msgid "页脚说明"
+msgstr ""
+
+#: inc/core.php:766
+msgid "Appverse · 发现值得安装的应用"
+msgstr ""
+
+#: inc/core.php:769
+msgid "下载弹窗提示"
+msgstr ""
+
+#: inc/core.php:826
+msgid "登录后才能点赞"
+msgstr ""
+
+#: inc/core.php:832
+msgid "内容不存在"
+msgstr ""
+
+#: inc/core.php:926
+msgid "应用不存在"
+msgstr ""
+
+#: inc/core.php:959
+msgid "登录后才能签到"
+msgstr ""
+
+#: inc/core.php:1002
+#: inc/core.php:1003
+#: inc/core.php:1058
+msgid "Appverse 演示内容"
+msgstr ""
+
+#: inc/core.php:1063
+msgid "演示内容已移除。"
+msgstr ""
+
+#: inc/core.php:1063
+msgid "演示内容已导入。"
+msgstr ""
+
+#: inc/core.php:1067
+msgid "主题首次启用时会自动创建一套应用商店演示数据：应用、分类、动态、个人中心页面与轮播图。你可以随时重新导入或移除它们，不会影响你之后创建的内容。"
+msgstr ""
+
+#: inc/core.php:1070
+msgid "演示状态"
+msgstr ""
+
+#: inc/core.php:1070
+msgid "已导入"
+msgstr ""
+
+#: inc/core.php:1070
+msgid "未导入"
+msgstr ""
+
+#: inc/core.php:1072
+#: inc/template-tags.php:774
+#: page-profile.php:89
+#: search.php:60
+msgid "动态"
+msgstr ""
+
+#: inc/core.php:1073
+msgid "页面"
+msgstr ""
+
+#: inc/core.php:1078
+msgid "重新导入演示内容"
+msgstr ""
+
+#: inc/core.php:1078
+msgid "导入演示内容"
+msgstr ""
+
+#: inc/core.php:1080
+msgid "移除演示内容"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "提取版"
+msgstr ""
+
+#: inc/template-tags.php:173
+#: single-app.php:193
+#: template-parts/app-card.php:30
+msgid "下载"
+msgstr ""
+
+#. translators: %s rating value
+#: inc/template-tags.php:213
+#, php-format
+msgid "评分 %s 分"
+msgstr ""
+
+#: inc/template-tags.php:323
+msgid "游客"
+msgstr ""
+
+#: inc/template-tags.php:377
+msgid "未登录"
+msgstr ""
+
+#. translators: %s time
+#: inc/template-tags.php:459
+#, php-format
+msgid "今天 %s"
+msgstr ""
+
+#. translators: %s time
+#: inc/template-tags.php:462
+#, php-format
+msgid "昨天 %s"
+msgstr ""
+
+#: inc/template-tags.php:613
+msgid "AppShare 出品"
+msgstr ""
+
+#: inc/template-tags.php:614
+msgid "灵界"
+msgstr ""
+
+#: inc/template-tags.php:616
+msgid "打开即玩的文字修仙世界"
+msgstr ""
+
+#: inc/template-tags.php:617
+msgid "立即入世"
+msgstr ""
+
+#: inc/template-tags.php:622
+msgid "本周精选"
+msgstr ""
+
+#: inc/template-tags.php:623
+msgid "夜色电台"
+msgstr ""
+
+#: inc/template-tags.php:625
+msgid "把深夜留给声音与故事"
+msgstr ""
+
+#: inc/template-tags.php:626
+msgid "去看看"
+msgstr ""
+
+#: inc/template-tags.php:631
+#: page-categories.php:57
+msgid "独立开发者计划"
+msgstr ""
+
+#: inc/template-tags.php:632
+msgid "小团队，大作品"
+msgstr ""
+
+#: inc/template-tags.php:634
+msgid "发现那些认真做产品的人"
+msgstr ""
+
+#: inc/template-tags.php:635
+msgid "逛独立区"
+msgstr ""
+
+#: inc/template-tags.php:687
+msgid "首页"
+msgstr ""
+
+#: inc/template-tags.php:694
+#: inc/template-tags.php:965
+msgid "广场"
+msgstr ""
+
+#: inc/template-tags.php:701
+#: template-parts/topbar-home.php:23
+msgid "我的"
+msgstr ""
+
+#: inc/template-tags.php:775
+msgid "附件"
+msgstr ""
+
+#: inc/template-tags.php:835
+msgid "分页"
+msgstr ""
+
+#: inc/template-tags.php:872
+msgid "热门"
+msgstr ""
+
+#: inc/template-tags.php:873
+msgid "高分"
+msgstr ""
+
+#: inc/template-tags.php:875
+msgid "排序"
+msgstr ""
+
+#: inc/template-tags.php:927
+msgid "回复"
+msgstr ""
+
+#. translators: 1: version, 2: size
+#: inc/template-tags.php:948
+#, php-format
+msgid "版本 %1$s · %2$s"
+msgstr ""
+
+#: inc/template-tags.php:974
+msgid "搜索结果"
+msgstr ""
+
+#: inc/template-tags.php:977
+msgid "页面未找到"
+msgstr ""
+
+#: index.php:15
+msgid "FEED"
+msgstr ""
+
+#: index.php:49
+msgid "还没有内容"
+msgstr ""
+
+#: index.php:50
+msgid "发布第一篇文章，或者先导入演示内容看看效果。"
+msgstr ""
+
+#: page-categories.php:28
+msgid "按使用场景找到你需要的那一款。"
+msgstr ""
+
+#: page-categories.php:29
+msgid "CATEGORIES"
+msgstr ""
+
+#. translators: %d apps
+#: page-categories.php:46
+#: taxonomy-app_category.php:21
+#, php-format
+msgid "%d 款应用"
+msgstr ""
+
+#: page-categories.php:51
+msgid "还没有分类"
+msgstr ""
+
+#: page-categories.php:58
+msgid "小团队，也值得被看见"
+msgstr ""
+
+#: page-categories.php:59
+msgid "发现那些认真做产品的人。"
+msgstr ""
+
+#. Template Name of the theme
+#: page-checkin.php:27
+msgid "每日签到"
+msgstr ""
+
+#: page-checkin.php:16
+msgid "连续 3 天"
+msgstr ""
+
+#: page-checkin.php:17
+msgid "连续 7 天"
+msgstr ""
+
+#: page-checkin.php:18
+msgid "连续 15 天"
+msgstr ""
+
+#: page-checkin.php:26
+msgid "DAILY CHECK-IN"
+msgstr ""
+
+#. translators: %d days
+#: page-checkin.php:31
+#, php-format
+msgid "已连续签到 %d 天，继续保持。"
+msgstr ""
+
+#: page-checkin.php:33
+msgid "登录后即可签到，每天都有积分。"
+msgstr ""
+
+#: page-checkin.php:44
+msgid "当前积分"
+msgstr ""
+
+#: page-checkin.php:48
+msgid "今日已签到"
+msgstr ""
+
+#: page-checkin.php:48
+msgid "立即签到 +5"
+msgstr ""
+
+#: page-checkin.php:51
+msgid "登录后签到"
+msgstr ""
+
+#: page-checkin.php:59
+msgid "每天 00:00 重置"
+msgstr ""
+
+#: page-checkin.php:105
+msgid "签到规则"
+msgstr ""
+
+#: page-checkin.php:107
+msgid "每天可签到一次，每次获得 5 积分与 10 点经验。"
+msgstr ""
+
+#: page-checkin.php:108
+msgid "连续签到会累计天数，中断后重新计算。"
+msgstr ""
+
+#: page-checkin.php:109
+msgid "积分可在积分商城兑换会员与周边。"
+msgstr ""
+
+#: page-indie.php:47
+msgid "INDIE MAKERS"
+msgstr ""
+
+#: page-indie.php:48
+msgid "小团队，也值得被看见。"
+msgstr ""
+
+#: page-indie.php:49
+msgid "这里收录由个人或小团队独立完成的应用。没有买量，没有换皮，只有认真做出来的东西。"
+msgstr ""
+
+#: page-indie.php:51
+msgid "了解独立开发计划"
+msgstr ""
+
+#: page-indie.php:52
+msgid "看开发者动态"
+msgstr ""
+
+#: page-indie.php:59
+msgid "独立开发者"
+msgstr ""
+
+#. translators: %d apps
+#: page-indie.php:66
+#, php-format
+msgid "%d 款作品"
+msgstr ""
+
+#: page-indie.php:75
+msgid "独立作品"
+msgstr ""
+
+#: page-indie.php:89
+msgid "独立专区正在筹备"
+msgstr ""
+
+#: page-indie.php:89
+msgid "把应用加入「独立开发」分类后就会显示在这里。"
+msgstr ""
+
+#. Template Name of the theme
+msgid "我的（个人中心）"
+msgstr ""
+
+#: page-profile.php:72
+msgid "登录后同步等级、资产与下载记录"
+msgstr ""
+
+#: page-profile.php:78
+msgid "已签到"
+msgstr ""
+
+#: page-profile.php:81
+msgid "登录"
+msgstr ""
+
+#: page-profile.php:93
+msgid "关注"
+msgstr ""
+
+#: page-profile.php:99
+msgid "我的资产"
+msgstr ""
+
+#: page-profile.php:105
+msgid "流量"
+msgstr ""
+
+#: page-profile.php:107
+msgid "查看"
+msgstr ""
+
+#: page-profile.php:115
+msgid "应用升级"
+msgstr ""
+
+#: page-profile.php:126
+msgid "暂无更新"
+msgstr ""
+
+#: page-profile.php:131
+msgid "升级"
+msgstr ""
+
+#: page-profile.php:136
+msgid "会员与积分"
+msgstr ""
+
+#: page-profile.php:139
+msgid "会员中心"
+msgstr ""
+
+#: page-profile.php:143
+msgid "任务中心"
+msgstr ""
+
+#: page-profile.php:147
+msgid "积分商城"
+msgstr ""
+
+#: page-profile.php:166
+msgid "登录 / 注册"
+msgstr ""
+
+#. Template Name of the theme
+#: page-ranking.php:48
+msgid "应用排行"
+msgstr ""
+
+#: page-ranking.php:39
+msgid "总榜"
+msgstr ""
+
+#: page-ranking.php:40
+msgid "新锐"
+msgstr ""
+
+#: page-ranking.php:49
+msgid "基于真实下载与收藏热度，每天更新。"
+msgstr ""
+
+#: page-ranking.php:50
+msgid "CHARTS"
+msgstr ""
+
+#: page-ranking.php:54
+msgid "排行榜类型"
+msgstr ""
+
+#: page-ranking.php:90
+msgid "榜单正在生成"
+msgstr ""
+
+#: page-ranking.php:90
+msgid "上架更多应用后，这里会自动出现排名。"
+msgstr ""
+
+#: page.php:28
+msgid "编辑页面"
+msgstr ""
+
+#. translators: %s query
+#: search.php:32
+#, php-format
+msgid "“%s” 的搜索结果"
+msgstr ""
+
+#. translators: %d results
+#: search.php:33
+#, php-format
+msgid "共找到 %d 条内容"
+msgstr ""
+
+#. translators: %d results
+#: search.php:34
+msgid "SEARCH"
+msgstr ""
+
+#: search.php:78
+msgid "其他内容"
+msgstr ""
+
+#: search.php:98
+msgid "没有找到相关内容"
+msgstr ""
+
+#: search.php:99
+msgid "换一个关键词试试，例如应用名、分类或开发者。"
+msgstr ""
+
+#: searchform.php:11
+#: searchform.php:14
+#: template-parts/topbar-home.php:12
+#: template-parts/topbar-home.php:15
+#: template-parts/topbar-inner.php:14
+msgid "搜索"
+msgstr ""
+
+#: searchform.php:15
+msgid "搜索应用、动态或开发者"
+msgstr ""
+
+#: single-app.php:53
+msgid "下载安装"
+msgstr ""
+
+#: single-app.php:54
+msgid "已加入收藏（演示）"
+msgstr ""
+
+#: single-app.php:54
+msgid "收藏"
+msgstr ""
+
+#: single-app.php:57
+msgid "分享"
+msgstr ""
+
+#: single-app.php:65
+msgid "版本"
+msgstr ""
+
+#: single-app.php:69
+msgid "大小"
+msgstr ""
+
+#: single-app.php:73
+msgid "更新"
+msgstr ""
+
+#: single-app.php:79
+msgid "简介"
+msgstr ""
+
+#: single-app.php:80
+msgid "截图"
+msgstr ""
+
+#: single-app.php:90
+msgid "安全检测"
+msgstr ""
+
+#: single-app.php:91
+msgid "无广告"
+msgstr ""
+
+#: single-app.php:92
+msgid "Android 8.0+"
+msgstr ""
+
+#: single-app.php:153
+msgid "相关应用"
+msgstr ""
+
+#: single-app.php:171
+msgid "开发者动态"
+msgstr ""
+
+#: single.php:72
+msgid "更多动态"
+msgstr ""
+
+#: taxonomy-app_category.php:37
+msgid "这个分类还没有应用"
+msgstr ""
+
+#: taxonomy-app_category.php:37
+msgid "过段时间再来看看吧。"
+msgstr ""
+
+#: taxonomy-app_collection.php:32
+msgid "这个应用集还是空的"
+msgstr ""
+
+#: taxonomy-app_collection.php:32
+msgid "编辑应用时把它加入应用集即可。"
+msgstr ""
+
+#: taxonomy-app_tag.php:32
+msgid "没有相关应用"
+msgstr ""
+
+#: template-parts/empty.php:9
+msgid "这里还是空的"
+msgstr ""
+
+#: template-parts/post-card.php:36
+msgid "更多操作即将上线"
+msgstr ""
+
+#: template-parts/post-card.php:36
+msgid "更多"
+msgstr ""
+
+#: template-parts/topbar-home.php:15
+msgid "搜索应用与动态"
+msgstr ""
+
+#: template-parts/topbar-home.php:18
+#: template-parts/topbar-profile.php:15
+msgid "暂时没有新通知"
+msgstr ""
+
+#: template-parts/topbar-home.php:18
+#: template-parts/topbar-profile.php:15
+msgid "通知"
+msgstr ""
+
+#: template-parts/topbar-inner.php:10
+msgid "返回"
+msgstr ""
+
+#: template-parts/topbar-profile.php:19
+msgid "设置"
+msgstr ""

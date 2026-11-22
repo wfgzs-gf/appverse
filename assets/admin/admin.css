@@ -1,0 +1,76 @@
+/* Appverse admin app editor */
+.av-admin-grid {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 4px 20px;
+}
+
+.av-admin-field {
+	margin: 0 0 12px;
+}
+
+.av-admin-field label {
+	display: block;
+	margin-bottom: 4px;
+	font-weight: 600;
+}
+
+.av-admin-check {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	font-weight: 400 !important;
+}
+
+.av-admin-shots {
+	margin-top: 16px;
+	padding-top: 16px;
+	border-top: 1px solid #e2e4e7;
+}
+
+.av-admin-shots__list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	margin: 10px 0;
+}
+
+.av-admin-shots__list figure {
+	position: relative;
+	width: 82px;
+	height: 146px;
+	margin: 0;
+	overflow: hidden;
+	border: 1px solid #dcdcde;
+	border-radius: 8px;
+	background: #f6f7f7;
+}
+
+.av-admin-shots__list img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.av-admin-shots__remove {
+	position: absolute;
+	top: 2px;
+	right: 4px;
+	width: 20px;
+	height: 20px;
+	padding: 0;
+	border-radius: 50%;
+	background: rgba(0, 0, 0, .62);
+	color: #fff;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+@media (max-width: 782px) {
+	.av-admin-grid {
+		grid-template-columns: 1fr;
+	}
+}
