@@ -1,0 +1,23 @@
+﻿/*
+Theme Name: Appverse
+Theme URI: https://wxsq.dpdns.org/
+Author: 万象社区
+Author URI: https://wxsq.dpdns.org/
+Description: Appverse 是一款移动应用商店风格的 WordPress 主题：首页轮播、应用推荐、应用排行、分类、社区动态、签到与个人中心一应俱全。主题内置演示数据，启用后即可获得与预览图一致的应用商店站点。
+Version: 1.1.0
+Requires at least: 6.4
+Tested up to: 7.1
+Requires PHP: 8.1
+License: GNU General Public License v2 or later
+License URI: https://wxsq.dpdns.org/
+Text Domain: appverse
+Tags: custom-colors, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, block-styles, wide-blocks, full-width-template
+*/
+
+/*
+ * 主题外观样式位于 assets/css/main.css（由 functions.php 入队）。
+ * 此文件仅承载主题元信息与极少数无 JS 时的兜底样式。
+ */
+body {
+	margin: 0;
+}
